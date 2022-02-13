@@ -1,1 +1,1 @@
-export { SystemRole, OrganisationRole } from './domain';
+export { SystemRole, OrganisationRole, SignUp } from './domain';
