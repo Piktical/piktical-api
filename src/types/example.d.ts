@@ -17,7 +17,7 @@
  * something();
  * ```
  */
-declare module 'module-name' {
+declare module 'piktical' {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const whatever: any;
   export = whatever;

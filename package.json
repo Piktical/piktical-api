@@ -1,11 +1,11 @@
 {
   "name": "piktical-api",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "API contracts for Piktical domain",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/rob-piktical/piktical-api",
+  "repository": "https://github.com/Piktical/piktical-api",
   "license": "MIT",
   "keywords": [],
   "scripts": {
@@ -47,11 +47,11 @@
   "devDependencies": {
     "@ava/typescript": "^1.1.1",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
+    "@types/node": "^17.0.13",
     "@typescript-eslint/eslint-plugin": "^4.0.1",
     "@typescript-eslint/parser": "^4.0.1",
     "ava": "^3.12.1",
     "codecov": "^3.5.0",
-    "cspell": "^4.1.0",
     "cz-conventional-changelog": "^3.3.0",
     "eslint": "^7.8.0",
     "eslint-config-prettier": "^6.11.0",
